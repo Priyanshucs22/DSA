@@ -1,3 +1,4 @@
+package Queue;
 public class P_client {
     public static void main(String[] args) {
         PriorityQueue p_q=new PriorityQueue();

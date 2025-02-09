@@ -1,3 +1,4 @@
+package HashMap;
 public class HashMap {
     public class Node {
         String key;

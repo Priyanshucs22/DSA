@@ -1,3 +1,5 @@
+package Queue;
+
 import java.util.*;
 public class PriorityQueue {
     ArrayList<Integer> l = new ArrayList<>();  // ArrayList to store heap elements (min-heap)
