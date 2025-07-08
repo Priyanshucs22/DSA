@@ -1,5 +1,3 @@
-package Coding_Problems;
-
 public class ZigzagConversion {
     public static void main(String[] args) {
         int numrows = 4;
